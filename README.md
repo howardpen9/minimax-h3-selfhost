@@ -1,3 +1,4 @@
+選做 A：[官方 M3／H3 API 圖文分鏡流水線](https://github.com/howardpen9/minimax-m3-h3-pipeline)
 # MiniMax H3 自租部署证据（2026-11-10）
 
 ## 目的
